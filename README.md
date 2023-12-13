@@ -6,4 +6,5 @@ A chance for me to practice making requests and handling the responses from the 
 Error handling for responses and wrapped in a while loop so that the user can pick again when prompted. 
 
 ![image](https://github.com/Joshsilas/BoredApi/assets/137796554/83cc3023-7479-496c-88c2-3530e1d0f95d)
+
 Also made a front end version using razorpages. 
